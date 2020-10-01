@@ -1,0 +1,17 @@
+#bestDiv {
+    width: 250px;
+    height: 250px;
+    background-color: lightblue;
+    opacity: .85;
+}
+#worstDiv {
+    width: 250px;
+    height: 250px;    
+    background-color: lightblue;
+    opacity: .3;
+}
+#otherDiv {
+    width: 250px;
+    height: 250px;    
+    background-color: rgba(173, 216, 230, .3);
+}
